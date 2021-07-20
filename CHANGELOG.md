@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/dword-design/tester-plugin-nodemailer-mock/compare/v1.0.1...v1.0.2) (2021-07-20)
+
+
+### Bug Fixes
+
+* update config files ([12a25a2](https://github.com/dword-design/tester-plugin-nodemailer-mock/commit/12a25a2328f98663620ed2ca4fb274b21c5b012a))
+
 ## [1.0.1](https://github.com/dword-design/tester-plugin-nodemailer-mock/compare/v1.0.0...v1.0.1) (2021-07-06)
 
 
